@@ -12,3 +12,9 @@ Urban Feast is a Online food delivery application build by MERN (Mongodb,Express
 <p>Frontend: React.js, TailwindCSS, DaisyUi, Meraki Ui </p>
 <p>Backend:  Node.js, Express.js </p>
 <p>Database:  MongoDB </p>
+
+🧑‍💻 Getting Started
+
+Prerequisites : 
+<p>Node.js (latest)</p>
+<p>Mongodb</p>
