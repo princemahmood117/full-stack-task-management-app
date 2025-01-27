@@ -1,0 +1,173 @@
+[
+    {
+      "_id": "1",
+      "name": "Classic Margherita Pizza",
+      "reciepe": "A classic Italian pizza with fresh tomato sauce, mozzarella cheese, and fresh basil.",
+      "image": "https://i.ibb.co.com/mzGLzkj/classic-margaretta.png",
+      "category": "pizza",
+      "price": 12
+    },
+    {
+      "_id": "2",
+      "name": "Spicy Chicken Wings",
+      "reciepe": "Crispy chicken wings tossed in a spicy buffalo sauce.",
+      "image": "https://i.ibb.co.com/6srsY01/fried-chicken.png",
+      "category": "chicken",
+      "price": 10
+    },
+    {
+      "_id": "3",
+      "name": "Beef Burger Deluxe",
+      "reciepe": "Juicy beef patty with lettuce, tomato, cheese, and special sauce.",
+      "image": "https://i.ibb.co.com/Xsp3MxQ/beef-Burger-Delux.png",
+      "category": "burger",
+      "price": 15
+    },
+    {
+      "_id": "4",
+      "name": "Pepperoni Pizza",
+      "reciepe": "Thin-crust pizza topped with pepperoni slices and mozzarella cheese.",
+      "image": "https://i.ibb.co.com/n69JyJB/pepparoni-pizza.png",
+      "category": "pizza",
+      "price": 14
+    },
+    {
+      "_id": "5",
+      "name": "Grilled Chicken Salad",
+      "reciepe": "Fresh greens topped with grilled chicken, cherry tomatoes, and vinaigrette.",
+      "image": "https://i.ibb.co.com/yRZ6yy7/grilled-chicken-Salad.png",
+      "category": "chicken",
+      "price": 11
+    },
+    {
+      "_id": "6",
+      "name": "Coke Zero",
+      "reciepe": "A refreshing sugar-free cola drink.",
+      "image": "https://i.ibb.co.com/MBY7NKP/coke-zero.png",
+      "category": "coke",
+      "price": 3
+    },
+    {
+      "_id": "7",
+      "name": "Classic Cheeseburger",
+      "reciepe": "Beef patty with cheddar cheese, lettuce, tomato, and ketchup.",
+      "image": "https://i.ibb.co.com/s2fhtZZ/classic-Cheese-Burger.png",
+      "category": "burger",
+      "price": 13
+    },
+    {
+      "_id": "8",
+      "name": "Barbecue Chicken Pizza",
+      "reciepe": "Pizza topped with BBQ chicken, red onions, and mozzarella.",
+      "image": "https://i.ibb.co.com/ssg7B3L/bbq-chicken-pizza.png",
+      "category": "pizza",
+      "price": 16
+    },
+    {
+      "_id": "9",
+      "name": "Beef Steak",
+      "reciepe": "Tender grilled beef steak seasoned with salt and pepper.",
+      "image": "https://i.ibb.co.com/kXWxzp2/Beef-steak.png",
+      "category": "beef",
+      "price": 22
+    },
+    {
+      "_id": "10",
+      "name": "Chicken Nuggets",
+      "reciepe": "Golden and crispy bite-sized chicken nuggets.",
+      "image": "https://i.ibb.co.com/86BSWKp/chicken-nuggets.png",
+      "category": "chicken",
+      "price": 8
+    },
+    
+    {
+      "_id": "11",
+      "name": "Grilled Chicken Sandwich",
+      "reciepe": "Marinated grilled chicken served in a fresh sandwich bun.",
+      "image": "https://i.ibb.co.com/1qkyMWN/chicken-sandwich.png",
+      "category": "chicken",
+      "price": 12
+    },
+    {
+      "_id": "12",
+      "name": "Double Cheeseburger",
+      "reciepe": "Double beef patties layered with cheddar cheese, lettuce, and special sauce.",
+      "image": "https://i.ibb.co.com/XLg7wC7/double-burger.png",
+      "category": "burger",
+      "price": 18
+    },
+    {
+      "_id": "13",
+      "name": "Beef Kebab Wrap",
+      "reciepe": "Grilled beef kebabs wrapped in flatbread with lettuce and sauces.",
+      "image": "https://i.ibb.co.com/PjZ9hq7/beef-meat-sandwich.png",
+      "category": "beef",
+      "price": 12
+    },
+    {
+      "_id": "14",
+      "name": "Crispy Chicken Burger",
+      "reciepe": "Crispy chicken fillet with lettuce, mayo, and a soft burger bun.",
+      "image": "https://i.ibb.co.com/zPXgr9N/crispy-Chicken.png",
+      "category": "burger",
+      "price": 14
+    },
+    {
+      "_id": "15",
+      "name": "Pepsi",
+      "reciepe": "A refreshing soda.",
+      "image": "https://i.ibb.co.com/bgcLLYQ/pepsi.png",
+      "category": "coke",
+      "price": 3
+    },
+    
+    {
+      "_id": "16",
+      "name": "Burger Combo",
+      "reciepe": "3x burger combo including soft burger bun, secret mayo, french fries, coke/pepsi, .",
+      "image": "https://i.ibb.co.com/2KvkKgv/burger-Combo.png",
+      "category": "popular",
+      "price": 120
+    },
+    {
+      "_id": "17",
+      "name": "Chicken Shawarma",
+      "reciepe": "Crispy chicken fillet with lettuce, mayo, and a soft shawrma bun.",
+      "image": "https://i.ibb.co.com/C0Xhnbd/chicken-Shawrma.png",
+      "category": "popular",
+      "price": 14
+    },
+    {
+        "_id": "18",
+        "name": "Beef platter",
+        "reciepe": "Special beef with bread/loaf, salad and drinks",
+        "image": "https://i.ibb.co.com/X72S90R/beef-platter.png",
+        "category": "popular",
+        "price": 180
+    },
+    {
+      "_id": "19",
+      "name": "BBQ Beef Steak",
+      "reciepe": "Tender beef ribs smothered in barbecue sauce.",
+      "image": "https://i.ibb.co.com/Kx5vrJS/beef-steak.png",
+      "category": "popular",
+      "price": 25
+    },
+    {
+      "_id": "20",
+      "name": "Vegetable Platter",
+      "reciepe": "Mixed fresh vegetable with load/bread",
+      "image": "https://i.ibb.co.com/pwPSgvy/vegMeal.png",
+      "category": "popular",
+      "price": 120
+    },
+    {
+      "_id": "21",
+      "name": "Chicken-beef Platter",
+      "reciepe": "Tender half chicken breast and beef rib grilled with bbq sauce with load/bread",
+      "image": "https://i.ibb.co.com/p6HbxQ7/chicken-Platter.png",
+      "category": "popular",
+      "price": 250
+    }
+  ]
+  

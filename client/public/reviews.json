@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Jane Doe",
+        "short" : "Best service",
+        "image": "https://i.ibb.co.com/B4M5qb5/beared-Man.jpg",
+        "details": "The service here is exceptional, with staff that goes above and beyond to ensure a delightful experience. Their friendly attitude and quick response to requests make every visit seamless and enjoyable. Whether you're dining solo or with a group, the attentive service leaves a lasting impression. It's truly a hallmark of hospitality done right.",
+        "rating": 3,
+        "date" : "21 july,2019"
+    },
+    {
+        "_id": "643010f9f5a7e52ce1e8fa66",
+        "name": "Russel",
+        "short" : "Good quality food",
+        "image" : "https://i.ibb.co.com/vLp59Vq/cupMan.jpg",
+        "details": "The food here is a feast for the senses, offering rich flavors and fresh ingredients in every bite. Each dish is crafted with care, showcasing a perfect balance of taste and presentation. Whether it's traditional recipes or modern delicacies, the quality remains consistent. It's the kind of food that keeps you coming back for more.",
+        "rating": 2,
+        "date" : "20 december,2019"
+    },
+
+    {
+        "_id": "6430110af5a7e52ce1e8fa67",
+        "name": "MJ Doe",
+        "short" : "Good place for images",
+        "image" : "https://i.ibb.co.com/CPFRKrm/Mj.jpg",
+        "details": "With its aesthetically pleasing decor and vibrant ambiance, this place is a photographer's paradise. From Instagram-worthy dishes to well-lit seating areas, every corner is picture-perfect. The attention to design details ensures that your photos will stand out, making it an ideal spot for capturing memories.",
+        "rating": 5,
+        "date" : "17 march,2020"
+    },
+
+    {
+        "_id": "64301123f5a7e52ce1e8fa68",
+        "name": "Sarah Smith",
+        "short" : "Clean and hygiene maintainence",
+        "image" : "https://i.ibb.co.com/swmVZp5/sara.jpg",
+        "details": "Hygiene standards are top-notch, ensuring a clean and safe environment for guests. From spotless tables to the meticulous presentation of food, every detail reflects their commitment to cleanliness. The restrooms and kitchen areas are equally well-maintained, giving peace of mind. It's a place where you can dine with complete confidence in their hygiene practices.",
+        "rating": 4,
+        "date" : "01 september,2021"
+    },
+    {
+        "_id": "6430113af5a7e52ce1e8fa69",
+        "name": "Robert Johnson",
+        "short" : "Best place for hangout",
+        "image" : "https://i.ibb.co.com/H46gZrQ/robert.jpg",
+        "details": "This spot is perfect for unwinding and catching up with friends or family. The cozy seating, lively atmosphere, and delicious food create a relaxed vibe that’s hard to beat. Whether you're looking for a casual outing or a celebratory hangout, it offers the perfect blend of comfort and excitement. A true gem for making cherished memories.",
+        "rating": 5,
+        "date" : "26 april,2023"
+    },
+    {
+        "_id": "6430113af5a7e52ce1e8fa69",
+        "name": "Charls bannington",
+        "short" : "Delicious food",
+        "image" : "https://i.ibb.co.com/K0H27hB/man-On-Boat.jpg",
+        "details": "The food here is an absolute treat for the taste buds, bursting with flavor in every bite. From perfectly cooked appetizers to decadent desserts, each dish is a masterpiece of culinary artistry. The ingredients are fresh, and the recipes are crafted to perfection, leaving a lasting impression. It's a haven for food lovers seeking a truly delicious dining experience.",
+        "rating": 5,
+        "date" : "26 January,2025"
+    }
+]
